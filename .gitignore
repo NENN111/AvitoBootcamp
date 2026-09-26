@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+debug.log
+/test/
+/data/hiertext/validation.jsonl.gz
+/data/hiertext/validation.tgz
+/data/hiertext/*.download
+/data/hiertext/crops/
+/data/hiertext/source.lock.json
+/results/pplcnet_x0_25/*_features.npy
+/results/pplcnet_x0_25/*_features.json
+/results/pplcnet_x0_25/features.onnx

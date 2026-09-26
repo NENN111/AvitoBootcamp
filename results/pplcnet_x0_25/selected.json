@@ -1,0 +1,14 @@
+{
+  "model": "PP-LCNet_x0_25_textline_ori",
+  "method": "temperature",
+  "calibration": {
+    "method": "temperature",
+    "temperature": 0.8210713530520626
+  },
+  "tta": true,
+  "selection": {
+    "brier": 0.03648171825770109,
+    "accuracy": 0.951,
+    "auc": 0.992169
+  }
+}

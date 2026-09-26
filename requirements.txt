@@ -1,0 +1,12 @@
+torch==2.10.0
+numpy==2.3.3
+pandas==2.3.2
+Pillow==12.2.0
+opencv-python==4.13.0.92
+scikit-learn==1.7.2
+scipy==1.16.2
+nbformat==5.10.4
+nbclient==0.10.4
+ipykernel==7.2.0
+onnx==1.20.1
+onnxruntime==1.24.3
